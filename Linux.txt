@@ -3,7 +3,7 @@ Section A
 2-Implement the --help option for displaying usage examples.
 3-Implement the --version option for displaying the command version.
 Create File--
-touch internsctl
+nano internsctl
 chmod +x internsctl
 
 #!/bin/bash
